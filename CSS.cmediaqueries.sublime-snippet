@@ -15,5 +15,5 @@
 
 ]]></content>
 	<tabTrigger>cmediaqueries</tabTrigger>
-	<scope>source.css,source.less,source.sass</scope>
+	<scope>source.css,source.less,source.sass,source.stylus</scope>
 </snippet>

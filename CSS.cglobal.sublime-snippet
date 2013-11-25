@@ -14,5 +14,5 @@ Y88b  d88P 888 Y88..88P 888 d88P 888  888 888
 
 ]]></content>
 	<tabTrigger>cglobal</tabTrigger>
-	<scope>source.css,source.less,source.sass</scope>
+	<scope>source.css,source.less,source.sass,source.stylus</scope>
 </snippet>

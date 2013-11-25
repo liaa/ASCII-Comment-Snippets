@@ -14,5 +14,5 @@ Y88b  d88P Y8b.     888  888 Y8b.     888     888  888 888
 
 ]]></content>
 	<tabTrigger>cgeneral</tabTrigger>
-	<scope>source.css,source.less,source.sass</scope>
+	<scope>source.css,source.less,source.sass,source.stylus</scope>
 </snippet>
